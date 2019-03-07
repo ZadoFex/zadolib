@@ -6,7 +6,7 @@ class ZadoHello
 {
     public static function hello()
     {
-        return 'Hello zado utils lib !';
+        return 'Hello zado utils lib !\n';
     }
 }
 
