@@ -3,6 +3,7 @@
     "description": "Libreria utils php",
     "type": "library",
     "version": "1.0.0",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "ZadoFex",
